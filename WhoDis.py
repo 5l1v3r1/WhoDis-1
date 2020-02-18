@@ -4,9 +4,9 @@ import time
 
 # CREDENTIALS
 # Account Name 'Example@ex.com'
-account = 'unregisterednumber@gmail.com'
+account = 'example@gmail.com'
 # Account Password 'Password123'
-password = 'Juicebox77'
+password = 'Password123'
 
 
 
