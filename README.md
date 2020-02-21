@@ -5,7 +5,9 @@ Only supported by gmail for NOW
 
 Prerequisites:
 python3
+
 import yagmail 
+
 Gmail Account
 
 EDUCATION PURPOSES ONLY! 
